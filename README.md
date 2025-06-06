@@ -25,3 +25,10 @@ The model is evaluated using precision, recall, F1-score, and support metrics fo
 7. Live Website Prediction
 The project includes a utility that scrapes a given URL, extracts meaningful content, and runs it through the trained model. The output shows predicted categories and their associated confidence scores.
 
+
+The trained Random Forest model used for classification is larger than 25MB and cannot be directly uploaded to GitHub.
+You can download the model file from the link below:
+🔗 Download Trained Model (https://drive.google.com/file/d/1fu4vzMkCfubaTwxdguqFVEgpYgZZIx2W/view?usp=drive_link.pkl)
+
+🔗 Download Trained Model (https://drive.google.com/file/d/1wwBYNgpwNwk23z62u-RPeMhANbz09VG_/view?usp=drive_link.pkl)
+
